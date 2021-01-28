@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage":"https://sarawebdevport.netlify.app",
+  "homepage":"https://localhost3000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

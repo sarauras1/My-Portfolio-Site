@@ -50,7 +50,7 @@ class About extends Component {
                   className="featured-post animate-element wow delay5 fadeInUp"
                   data-wow-delay="0.5s"
                 >
-                  <img src="public/images/section/03.png" alt="images" />
+                  <img src="/images/section/03.png" alt="images" />
                 </div>
               </div>
               <div className="col-right">
