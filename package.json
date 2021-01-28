@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage":"https://sarauras1.github.io/My-Portfolio-Site/",
+  "homepage":"https://sarawebdevport.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
