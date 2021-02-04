@@ -2369,6 +2369,22 @@ body.slide-menu-dark .header #mainnav .menu li a:hover {
 #footer-widget .widget-info .phone {
     color: #ff2e59
 }
+.form-control-sm, .message{
+    margin: 10px auto;
+    max-width: 600px !important;
+}
+.form-control-sm {
+    height: 40px !important;
+    max-width: 600px !important;
+}
+.button {
+    border-radius: 10px;
+   margin-bottom: 50px;
+}
+form{
+    margin:auto;
+    max-width: 600px;
+}
 /* about-me
 -------------------------------------------------------------- */
 .about-me {

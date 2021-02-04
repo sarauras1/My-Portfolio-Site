@@ -41,5 +41,20 @@
     <script src="javascript/animatedModal.min.js"></script>
     <script src="%PUBLIC_URL%/javascript/animation-text.js"></script>
     <script src="%PUBLIC_URL%/javascript/main.js"></script>
+    
+    <form name="contact" netlify netlify-honeypot="bot-field" hidden>
+    
+      <input id="name" type="text" name="name" />
+    
+      <input id="surname" type="text" name="surname" />
+    
+      <input type="email" required id="email" name="email" />
+    
+      <textarea id="message" type="message" name="message"></textarea>
+    
+      <button id="submit"  type="submit">
+        Submit 
+      </button>
+    </form>
   </body>
 </html>
