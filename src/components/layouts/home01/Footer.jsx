@@ -71,12 +71,12 @@ class Footer extends Component {
                       <div className="container">
                         <form method="post" onSubmit={this.handleSubmit}>
                           <input type="hidden" name="contact" value="contact" />
-                          <div class="form-row">
-                            <div class="col-sm-12">
+                          <div className="form-row">
+                            <div className="col-sm-12">
                               <input
                                 id="name"
                                 type="text"
-                                class="form-control-sm"
+                                className="form-control-sm"
                                 placeholder="First name"
                                 name="name"
                                 value={name}
@@ -89,7 +89,7 @@ class Footer extends Component {
                                 id="surname"
                                 type="text"
                                 name="surname"
-                                class="form-control-sm"
+                                className="form-control-sm"
                                 value={surname}
                                 onChange={this.handleChange}
                                 required
@@ -98,20 +98,20 @@ class Footer extends Component {
                             </div>
                           </div>
 
-                          <div class="form-row">
-                            <div class="col-sm-12">
+                          <div className="form-row">
+                            <div className="col-sm-12">
                               <input
                                 placeholder="Your Email"
                                 type="email"
                                 required
                                 id="email"
                                 name="email"
-                                class="form-control-sm"
+                                className="form-control-sm"
                                 value={email}
                                 onChange={this.handleChange}
                               />
                             </div>
-                            <div class="col-sm-12">
+                            <div className="col-sm-12">
                               <textarea
                                 placeholder="Message"
                                 className="message"
