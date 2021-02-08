@@ -34,16 +34,16 @@ class EducationRight extends Component {
           id: 4,
           timeline: "timeline-inverted color3",
           info: "Esol",
-          title: "Ehglish Qualification",
+          title: "English Qualification",
           text: "English – Level 2 (GCSE Equivalent). with City & Guilds",
         },
         {
           id: 5,
           timeline: "timeline-inverted color1",
-          info: "IAL Sardegna",
-          title: "General Diploma",
+          info: "IAL (Italy)",
+          title: "Qualification",
           text:
-            "Level 3, (GCSE Equivalent) covering: English, Math, Science, Psychology, Customer Service, Products Quality, and ITC....",
+            "Level 3, (GCSE Equivalent) covering: English, Math, Science, Psychology, Customer Service, Products Quality, and ITC",
         }
   
       ],
