@@ -13,8 +13,8 @@ class Specilizing extends Component {
                     iconcolor: 'iconbox-icon color1',
                     spanicon: 'icon-designer',
                     title: 'Web Ui Design',
-                    text01: "I'm a Junior frontend Web Developer with 2 years of",
-                    text02: "experience. My main focus is on listening."
+                    text01: "I'm a Junior frontend Web Developer with 2 years of experience.",
+                    text02: "  My main focus is on listening."
                 },
                 {
                     id: 2,
@@ -22,8 +22,8 @@ class Specilizing extends Component {
                     iconcolor: 'iconbox-icon color2 color1',
                     spanicon: 'icon-designer',
                     title: 'Mobile Ui Design',
-                    text01: "I'm a Junior UI Web Developer with 2 years of",
-                    text02: "experience. I build Fast Beautiful responsive Websites."
+                    text01: "I'm a Junior UI Web Developer with 2 years of experience.",
+                    text02: "   I build Fast Beautiful responsive Websites."
                 },
                 {
                     id: 3,
@@ -31,8 +31,9 @@ class Specilizing extends Component {
                     iconcolor: 'iconbox-icon color3',
                     spanicon: 'icon-brand',
                     title: 'React.js Websites',
-                    text01: "I love building react websites",
-                    text02: "I will help you on getting your site to the web"
+                    text01: "My passion is building react websites.",
+
+                    text02: " I will help you on getting your site to the web."
                 },
             ]
         }
