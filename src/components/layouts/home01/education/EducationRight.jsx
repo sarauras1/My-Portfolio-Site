@@ -41,9 +41,9 @@ class EducationRight extends Component {
           id: 5,
           timeline: "timeline-inverted color1",
           info: "IAL (Italy)",
-          title: "Qualification",
+          title: "Diploma",
           text:
-            "Level 3, (GCSE Equivalent) covering: English, Math, Science, Psychology, Customer Service, Products Quality, and ITC",
+            "( A lavel Equivalent) covering: Math, Science, Psychology, Customer Service, Products Quality, and ITC, Business Admin",
         }
   
       ],
