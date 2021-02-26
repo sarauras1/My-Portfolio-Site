@@ -31,19 +31,12 @@ class EducationRight extends Component {
             "Ability to build an application from scratch with React and to use npm node, API, DataBase: SQL, MONGODB deploy app in surge.sh and GitHub",
         },
         {
-          id: 4,
-          timeline: "timeline-inverted color3",
-          info: "Esol",
-          title: "English Qualification",
-          text: "English – Level 2 (GCSE Equivalent). with City & Guilds",
-        },
-        {
           id: 5,
           timeline: "timeline-inverted color1",
           info: "IAL (Italy)",
-          title: "Diploma",
+          title: "( A lavel Equivalent)",
           text:
-            "( A lavel Equivalent) covering: Math, Science, Psychology, Customer Service, Products Quality, and ITC, Business Admin",
+            "covering: English, Math, Science, Psychology, Customer Service, Products Quality, and ITC, Business Admin",
         }
   
       ],
