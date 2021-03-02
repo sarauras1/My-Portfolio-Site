@@ -10,19 +10,19 @@ class ContainerLeft extends Component {
           >
             <div className="flat-title t1">
               <h4 className="sub-title mb-2">
-                I am a Junior Web Designer and Developer
+                I am a Web UX Designer and UI Developer.
               </h4>
               <h2 className="title-section color-d12 mg-b34">
-                Do You Need a website?
+                Do You Need a website for your businees, blog website, or portfolio website?
               </h2>
               <div className="description">
                 <p className="lt-sp01">
-                  I am a passionate Junior web developer with 2 years of
-                  experience
+                  I am a passionate web developer with 2 years of
+                  experience.
                 </p>
                 <p className="lt-sp01">
                   I can create for your business bespoke affordable beautiful
-                  websites
+                  websites.
                 </p>
               </div>
               {/* <div className="fl-btn btn-general btn-hv-border">

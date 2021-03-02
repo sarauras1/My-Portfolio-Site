@@ -37,8 +37,7 @@ class EducationRight extends Component {
           title: "( A lavel Equivalent)",
           text:
             "covering: English, Math, Science, Psychology, Customer Service, Products Quality, and ITC, Business Admin",
-        }
-  
+        },
       ],
     };
   }
